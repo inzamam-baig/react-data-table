@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "firstname": "John",
+    "lastname": "Smith",
+    "role": "Student",
+    "branch": "dha",
+    "status": 1,
+    "email": "john@email.com"
+  },
+  {
+    "id": 2,
+    "firstname": "Justin",
+    "lastname": "Trake",
+    "role": "Teacher",
+    "branch": "gulberg",
+    "status": 1,
+    "email": "justin@email.com"
+  },
+  {
+    "id": 3,
+    "firstname": "Sara",
+    "lastname": "Jane",
+    "role": "Learner",
+    "branch": "gulberg",
+    "status": 1,
+    "email": "sara@email.com"
+  },
+  {
+    "id": 4,
+    "firstname": "Edward",
+    "lastname": "Snowden",
+    "role": "Teacher",
+    "branch": "dha",
+    "status": 1,
+    "email": "edward@email.com"
+  },
+  {
+    "id": 5,
+    "firstname": "Peter",
+    "lastname": "Jake",
+    "role": "Learner",
+    "branch": "dha",
+    "status": 1,
+    "email": "peter@email.com"
+  }
+]
